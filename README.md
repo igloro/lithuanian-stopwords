@@ -1,0 +1,2 @@
+# lithuanian-stopwords
+Lithuanian stopwords
